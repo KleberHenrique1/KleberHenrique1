@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">✨ Alcançando meu Sonho<br>📚 Estudos<br>🎯 Foco</h4>
+
 
 ###
 
