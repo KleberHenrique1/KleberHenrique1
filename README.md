@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Meu nome é Kleber henrique, sigo com foco na carreira de desenvolvedor Front-end</h3>
+<h3 align="left">Meu nome é Kleber Henrique, sigo com foco na carreira de desenvolvedor Front-end</h3>
 
 ###
 
